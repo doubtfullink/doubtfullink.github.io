@@ -6,10 +6,10 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 18,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Untitled Dice',
+  app_name: 'Doubtfullinks dice game',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LcnIwgUAAAAAKPIwTerh4gT2EfZ0Qx1kVqgih3b',  // <----- EDIT ME!
   redirect_uri: 'https://doubtfullink.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
